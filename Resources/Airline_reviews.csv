@@ -1,10 +1,10 @@
-AirlineName,AverageOverallScore
-Alaska Airlines,3.43
-Allegiant Air,2.42
-American Airlines,2.41
-Delta Air Lines,3.39
-Frontier Airlines,1.63
-Jetblue Airways,3.21
-Southwest Airlines,4.12
-Spirit Airlines,2.22
-United Airlines,2.57
+AirlineName,Avg_OverallScore,Avg_SeatComfortRating,Avg_EntertainmentRating,Avg_FoodRating,Avg_GroundServiceRating,Avg_ServiceRating, Avg_ValueRating,Avg_WifiRating
+Alaska Airlines,3.43,2.19,1.09,1.53,1.56,2.29,2.06,0.74
+Allegiant Air,2.42,1.78,0.49,0.88,1.28,1.92,1.85,0.25
+American Airlines,2.41,1.96,1.19,1.34,1.52,2.04,1.68,0.91
+Delta Air Lines,3.39,2.35,1.76,1.76,1.86,2.66,2.05,0.95
+Frontier Airlines,1.63,1.34,0.51,0.64,1.11,1.57,1.4,0.28
+Jetblue Airways,3.21,2.35,1.74,1.74,1.66,2.33,2.08,1.26
+Southwest Airlines,4.12,2.27,0.84,1.74,1.83,2.78,2.48,0.94
+Spirit Airlines,2.22,1.47,0.52,0.81,1.21,1.8,1.68,0.28
+United Airlines,2.57,1.96,1.34,1.42,1.55,2.21,1.75,0.92
