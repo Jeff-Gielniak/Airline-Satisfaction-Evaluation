@@ -36,3 +36,7 @@ We used 'Bokeh' as an additional Python library to enhance our visualizations
 https://bokeh.org
 
 We leveraged ChatGPT as a tool to help develop the framework for certain aspects of the project. It provided code snippets and examples for us to base our code structure off of.
+
+# Database Reasoning
+
+- For this project, we used SQLite with SQLAlchemy because it’s simple, efficient, and perfect for local development. It allowed us to quickly build and test relationships between flights, airlines, airports, and ratings without needing a complex database setup. We used pandas to clean and transform our 2018 airline dataset, then loaded everything into our database. SQLAlchemy helped us model the data clearly in Python, and we used an ERD to map out table relationships. This setup made it easy to run joined queries and analyze airline performance, delays, and more — all while keeping the project clean, scalable, and easy to maintain.
