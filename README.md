@@ -10,7 +10,7 @@ Our team used two Kaggle datasets covering flight delay times and passenger revi
 
 -(Andy)
 
--(Hussain)
+-This project analyzes airline ratings based on month, traveler type, and cabin class using an interactive dataset, providing insights to help travelers make informed booking decisions. The dataset, Analysis_complete.csv, was cleaned by checking for missing values and aggregating data by key attributes, including month, traveler type, cabin class, and airline name. The analysis identified the best-rated airlines per month, ranked overall airline performance, and examined how traveler type and cabin class influence ratings. Key findings indicate that January and July have the highest ratings, while December scores the lowest. Southwest Airlines consistently ranks as the best-rated airline, and business travelers in First Class provide the highest ratings. The visualization component includes an interactive Bokeh dashboard featuring a bar chart of monthly average ratings, with filters for traveler type, cabin class, and airline selection. Future steps involve analyzing how delays and cancellations impact ratings, comparing airfare trends with rating changes, and expanding the dashboard with additional insights and filters. My file name is flight_dashboard. After you run my code, in the terminal, you put this command bokeh serve --show flight_dashboard.py to activate the Bokeh dashboard. Also, make sure you correct the file path.
 
 Summary of Input Datasets used:
 1.https://www.kaggle.com/datasets/yuanyuwendymu/airline-delay-and-cancellation-data-2009-2018?select=2018.csv
