@@ -64,3 +64,8 @@ We also acknowledge that travel experiences can vary greatly by traveler type, r
 # Database Reasoning
 
 For this project, we used SQLite with SQLAlchemy because it’s simple, efficient, and perfect for local development. It allowed us to quickly build and test relationships between flights, airlines, airports, and ratings without needing a complex database setup. We used pandas to clean and transform our 2018 airline dataset, then loaded everything into our database. SQLAlchemy helped us model the data clearly in Python, and we used an ERD to map out table relationships. This setup made it easy to run joined queries and analyze airline performance, delays, and more — all while keeping the project clean, scalable, and easy to maintain.
+
+![AIRLINES ERD](https://github.com/user-attachments/assets/ce0a21d8-d8f7-4383-863a-ce740a64d615)
+<img width="918" alt="Screenshot 2025-04-23 at 11 15 07 AM" src="https://github.com/user-attachments/assets/b52b0a41-cd01-4a5f-8f45-89bbd67910c4" />
+<img width="616" alt="Screenshot 2025-04-23 at 11 16 20 AM" src="https://github.com/user-attachments/assets/0384601d-8c83-4e95-b718-837a59949231" />
+
